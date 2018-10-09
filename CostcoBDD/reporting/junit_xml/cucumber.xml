@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="1" tests="1" time="0">
+<testcase classname="Login" name="Login with invalid credentials" time="0">
+<skipped><![CDATA[Given User is in login page.................................................undefined
+When Enter invalid email and password from Data Table.......................undefined
+Then Error message appear...................................................undefined
+]]></skipped>
+</testcase>
+</testsuite>
